@@ -3,7 +3,6 @@
 - I hold a Master of Science in Computational Cognitive Neuroscience.
 - My focus lies in Statistics and Machine Learning, backed by substantial expertise in signal and image analysis.
 - I'm eager to apply my expertise in data-driven decision-making in challenging roles.
-- Fun fact: Coffee is my love language, and I consider espresso shots my secret superpower
 ### 📚 Education
 M.S. Computational Cognitive Neuroscience, University of Oldenburg, 2019
 ### 💼 Work Experience
